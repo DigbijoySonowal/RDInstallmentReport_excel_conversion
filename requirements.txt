@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # pywin32-308 xlwings-0.33.6 
 xlwings
 
 # PyPDF2-3.0.1 
 PyPDF2
+=======
+pip install xlwings
+
+pip install PyPDF2
+>>>>>>> 11e21c76ad8df8de3e2347f31ea391b7877605b5
 
 # first run the main script then run the conversion script
